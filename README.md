@@ -1,2 +1,0 @@
-# whitepaper
-MacaronSwap Whitepaper Docs
